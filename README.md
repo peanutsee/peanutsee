@@ -9,5 +9,3 @@
 - ⚡ Fun fact: I am an extreme sports type of guy and I have a passion in teaching!
 
 ## Please enjoy my repos, and I hope they bring value to you :)
-
-##### Should a COMBINATION LOCK be called PERMUTATION LOCK instead?
