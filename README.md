@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my GITHUB! 
+## Hi there 👋 Welcome to my GITHUB! 
 
 - 🔭 I’m currently working on a Raspberry Pi Car and Calculus!
 - 🌱 I’m currently reading Data Science and AI at Nanyang Technological University, Singapore!
@@ -8,6 +8,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/darrylseeweishen/ 
 - ⚡ Fun fact: I am an extreme sports type of guy and I have a passion in teaching!
 
-### Please enjoy my repos, and I hope they bring value to you :)
+## Please enjoy my repos, and I hope they bring value to you :)
 
-### Should a COMBINATION LOCK be called PERMUTATION LOCK instead?
+##### Should a COMBINATION LOCK be called PERMUTATION LOCK instead?
