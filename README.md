@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GITHUB! 
 
-- 🔭 I’m currently working on a Raspberry Pi Car and Calculus!
+- 🔭 I’m currently working on a Gender Image Classifications and Calculus!
 - 🌱 I’m currently reading Data Science and AI at Nanyang Technological University, Singapore!
 - 👯 I’m looking to collaborate on Raspberry Pi RC Car with AR VR / Autonomy capabilities!
 - 🤔 I’m looking for help with Deep Learning in Computer Vision!
